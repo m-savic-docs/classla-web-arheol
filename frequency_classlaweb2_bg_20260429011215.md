@@ -1,10 +1,13 @@
 # CLASSLA-web.bg 2.0
 
 Number of texts:
+
 Number of words:
+
 Number of tokens:
 
 Query: археол.* (lemma)
+
 Concordance size: 220829
 
 |UD PoS tag   |Frequency   |Freq. per million   |% of concordance|
